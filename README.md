@@ -2,7 +2,7 @@
 DevContainer setup for running PyTorch. 
 
 ## Requirements
-- [Visual Studio Code](https://code.visualstudio.com/) (tested)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) in Visual Studio Code Marketplace.
 - [Docker](https://www.docker.com/get-started/)
 
