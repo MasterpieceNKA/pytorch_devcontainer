@@ -1,0 +1,5 @@
+figures 
+#src/*
+#!src/README.md
+.git
+.gitignore
